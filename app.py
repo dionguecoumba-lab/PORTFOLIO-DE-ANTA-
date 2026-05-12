@@ -7,7 +7,6 @@ st.header("_____________________________________")
 st.subheader("Technicienne en sciences alimentaires,je maîtrise les techniques de laboratoire, l’analyse microbiologique et les outils informatiques.Rigoureuse et motivée, je souhaite mettre mes compétences au service de l’innovation agroalimentaire et de la sécurité des produits ")
 
 with st.sidebar:
-    st.image("WhatsApp Image 2026-05-10 at 13.40.53.jpeg")
     st.write("CONTACT")
     st.write("📧diongueantacoumba888@gmail.com")
     st.write("📍Parcelles assainies unité 18")
@@ -78,6 +77,8 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
+
+         
 
          
 
